@@ -4,11 +4,11 @@
 	</div>
 </template>
 
-<script>
+<script type="text/ecmascript-6">
 	export default{
 	  name: 'header'
 	}
 </script>
 
-<style>
+<style lang="stylus" rel="stylesheet/stylus">
 </style>
